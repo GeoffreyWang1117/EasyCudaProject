@@ -1,1 +1,3 @@
 # SimpleCUDA
+练手实现一个包含FFT、LR、QR、特征值分解以及一些矩阵简单操作的cuda项目，项目在matrix项目里，替换掉了原先的SimpleCUDA项目
+目前debug模式下能够编译通过，半成品，release模式下还有很多路要走
